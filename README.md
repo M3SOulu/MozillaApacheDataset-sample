@@ -2,7 +2,7 @@
 
 Small sample of the [20-MAD dataset](https://github.com/M3SOulu/MozillaApacheDataset) containing:
 * All the commits for Hadoop and Zookeper for Apache;
-* All the commits for the \emph{releases-comm-central} repository for Mozilla;
+* All the commits for the releases-comm-central repository for Mozilla;
 * All the issues and issue comments for the Thunderbird product for Mozilla;
 * All the issues and issue comments for the Hadoop, HDFS and Zookeeper products for Apache.
 
